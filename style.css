@@ -110,7 +110,7 @@ nav a, nav span {
 /* || main layout */
 
 main {
-  display: flex;
+/*  display: flex;  */
 }
 
 article {
@@ -143,4 +143,5 @@ aside img {
 
 footer {
   margin-top: 10px;
+  font-color: #ffffff;
   }
