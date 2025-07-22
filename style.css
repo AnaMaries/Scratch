@@ -118,11 +118,12 @@ main {
 }
 
 article {
-   flex: 1;
+   flex: 1 100px;
+  
 }
 
 article:nth-of-type(2) {
-  flex: 2;
+  flex: 2 100px;
 }
 
 section {
