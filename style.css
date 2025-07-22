@@ -61,7 +61,7 @@ body > * {
   padding: 1%;
 }
 
-footer, section {
+footer {
   background-color: #2e326b;
   padding: 1%;
 }
@@ -113,10 +113,14 @@ main {
   display: flex;
 }
 
-article, section {
+article {
   flex-direction: column;
   flex: 3;
 }
+
+section {
+  display: flex;
+}  
 
 /*  Not using side panels at this time
 aside {
