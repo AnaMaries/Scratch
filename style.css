@@ -117,11 +117,16 @@ main {
 
 article {
   flex-direction: column;
-  flex: 3;
+  flex: 1;
+}
+
+article:nth-of-type(2) {
+  flex: 2;
 }
 
 section {
   display: flex;
+  flex-flow: row wrap;
 }  
 
 /*  Not using side panels at this time
