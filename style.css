@@ -150,5 +150,8 @@ aside img {
 
 footer {
   margin-top: 10px;
-  color: #ffffff;
-  }
+   }
+
+.footer_font {
+   color: #ffffff;
+}
