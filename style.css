@@ -164,6 +164,7 @@ footer {
   display: inline-block;
   font-size: 1.7rem;
   float: center;
+  margin: 20px;  
   text-align: center;
   color: #fff;
   text-shadow: 1px 1px 1px #000;
