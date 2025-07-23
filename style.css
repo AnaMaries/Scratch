@@ -11,7 +11,7 @@ html {
 }
 
 body {
-  width: 75%;
+  width: 90%;
   /*min-width: 800px;*/
   margin: 0 auto;
 }
@@ -160,7 +160,7 @@ footer {
    }
 
 .wrapper {
-  background-color: rgb(148 255 172);
+  background-color: #fad6b6;
   padding: 10px;
   color: purple;
   display: flow-root;
