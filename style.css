@@ -61,8 +61,8 @@ p, li {
 header, footer {
   margin-bottom: 10px;
   display: flex;
-  flex-flow: row wrap;
-  width: 100%;
+/*  flex-flow: row wrap; */
+  width: 80%;
 }
 
 body > * {
@@ -161,6 +161,3 @@ footer {
   width: 100%
    }
 
-.white_font {
-   color: #ffffff;
-}
