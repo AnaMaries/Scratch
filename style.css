@@ -160,10 +160,11 @@ footer {
   border: 0;
   width: 50px
 <!--  line-height: 2; -->
-  padding: 15px 0px;
+  padding: 15px 15px;
 <!--  flex: 1; -->
   display: inline-block;
   font-size: 1.7rem;
+  align: center;
   text-align: center;
   color: #fff;
   text-shadow: 1px 1px 1px #000;
