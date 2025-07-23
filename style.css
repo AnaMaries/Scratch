@@ -162,7 +162,8 @@ footer {
   border: 0;
   line-height: 2;
   padding: 0 0px;
-  font-size: 2rem;
+  flex: 1 100px;
+  font-size: 1.7rem;
   text-align: center;
   color: #fff;
   text-shadow: 1px 1px 1px #000;
