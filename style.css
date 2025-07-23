@@ -159,9 +159,10 @@ footer {
   type: button;
   border: 0;
   width: 50px
-  line-height: 2;
-  padding: 0 0px;
-  flex: 1;
+<!--  line-height: 2; -->
+  padding: 15px 0px;
+<!--  flex: 1; -->
+  display: inline-block;
   font-size: 1.7rem;
   text-align: center;
   color: #fff;
