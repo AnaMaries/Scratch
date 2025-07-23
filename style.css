@@ -163,7 +163,7 @@ footer {
 <!--  flex: 1; -->
   display: inline-block;
   font-size: 1.7rem;
-  float: right;
+  float: center;
   text-align: center;
   color: #fff;
   text-shadow: 1px 1px 1px #000;
