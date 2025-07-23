@@ -161,7 +161,7 @@ footer {
   type: button;
   border: 0;
   line-height: 2.5;
-  padding: 0 20px;
+  padding: 0 40px;
   font-size: 3rem;
   text-align: center;
   color: #fff;
@@ -180,7 +180,7 @@ footer {
 }
 
 .appt_button:hover {
-  background-color: red;
+  background-color: peach;
 }
 
 .appt_button:active {
