@@ -132,8 +132,7 @@ article:nth-of-type(2) {
 footer {
   margin-top: 10px;
   background-color: #2e326b;
-  padding: 1%;
-}
+  }
 
 
 /* || custom items */
@@ -164,6 +163,7 @@ footer {
   font-size: 1.7rem;
   float: center;
   margin: 20px;  
+  padding: 50px;
   text-align: center;
   color: #fff;
   text-shadow: 1px 1px 1px #000;
