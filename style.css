@@ -120,7 +120,8 @@ section {
 }  
 
 article {
-   flex: 1; 
+  flex: 1; 
+  float: center;
 }
 
 <!--
