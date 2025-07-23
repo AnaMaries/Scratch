@@ -120,14 +120,12 @@ section {
 }  
 
 article {
-   flex: 3; 
+   flex: 1; 
 }
 
-<!--
 article:nth-of-type(2) {
-  flex: 2 50%;
+  flex: 2;
 }
--->
 
 /* || footer layout */
 
@@ -160,6 +158,7 @@ footer {
 .appt_button {
   type: button;
   border: 0;
+  width: 100px
   line-height: 2;
   padding: 0 0px;
   flex: 1 100px;
