@@ -158,9 +158,8 @@ footer {
 .appt_button {
   type: button;
   border: 0;
-  width: 50px
+  width: 100px
   padding: 32px 16px;
-<!--  flex: 1; -->
   display: inline-block;
   font-size: 1.7rem;
   float: center;
