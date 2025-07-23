@@ -123,10 +123,11 @@ article {
    flex: 3; 
 }
 
+<!--
 article:nth-of-type(2) {
   flex: 2 50%;
 }
-
+-->
 
 /* || footer layout */
 
