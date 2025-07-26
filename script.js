@@ -1,1 +1,0 @@
-$(document).ready(function() { $('img.lazy').show().lazyload({ skip_invisible: true, effect: 'fadeIn', failure_limit: 9 }); });
